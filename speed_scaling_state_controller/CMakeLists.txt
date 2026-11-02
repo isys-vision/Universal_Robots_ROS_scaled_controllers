@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0.2)
+cmake_minimum_required(VERSION 3.14.0)
 project(speed_scaling_state_controller)
 
 ## Find catkin macros and libraries
